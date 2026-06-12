@@ -1,3 +1,4 @@
+
 # Binance Futures Testnet Trading Bot
 
 A simplified **Python trading bot** for Binance Futures Testnet (USDT-M) with a **modern graphical interface built using Streamlit**.  
@@ -27,3 +28,6 @@ This bot allows you to place market, limit, and stop-limit orders programmatical
 ---
 
 
+
+# Trading-Bot-on-Binance-Futures-Testnet
+>>>>>>> efd761ec5f04bb34504388c9dac02590a7772909
